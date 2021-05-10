@@ -5,18 +5,12 @@
 </script>
 
 <div class="wrapper">
-    <Header>
 
-    </Header>
-
-    <Main>
-        
-    </Main>
-    <Footer>
-
-    </Footer>
+    <Header></Header>
+    <Main></Main>
+    <!-- <Footer></Footer> -->
 </div>
 
 <style lang="scss">
-
+@import "../scss/home.scss";
 </style>
