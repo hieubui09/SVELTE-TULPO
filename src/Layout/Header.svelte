@@ -46,9 +46,8 @@
                 </div>
             </div>
 
-
             <div class="menu__item"><a href="/">Sự nghiệp</a></div>
-            <div class="menu__item"><a href="/">Tuyển dụng</a></div>
+            <div class="menu__item"><a href="/">Tuyển dụng </a></div>
         </div>
         <div class="icon__menu" on:click={menuMobi}>
             {#if !mobileMenu}
